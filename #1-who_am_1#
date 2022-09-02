@@ -1,0 +1,7 @@
+#!/bin/bash/
+whoami
+chmod u+x 1-who_am_i
+ls
+git add .
+git commit -m
+git push

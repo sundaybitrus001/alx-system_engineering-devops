@@ -1,1 +1,4 @@
-Create a script that switches the current user to the user betty.
+
+# Heyy
+This is a
+script that prints the effective username of the current user
